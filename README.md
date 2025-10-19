@@ -9,7 +9,7 @@
 
 ## Course Overview
 
-Frontend development course covering HTML, CSS, JavaScript, TypeScript, and Angular.
+Доброго времени суток, меня зовут Коломыцева Валерия. Хочу стать frontend - разработчиком, но для начала надо наработать базу, а потом можно пробовать идти на стажировку.
 
 ## Course Structure
 
